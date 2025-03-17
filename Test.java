@@ -1,4 +1,8 @@
-class Test
+/**
+ * javac test.java コンパイル＆ビルド
+ * java test　実行
+ */
+public class Test
 {
     public static void main(String []args)
     {
